@@ -1,1 +1,9 @@
+#virtual environments
 /venv
+/env_framework
+
+#.env
+.env
+
+#data
+/data
