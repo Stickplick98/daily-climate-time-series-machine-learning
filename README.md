@@ -42,3 +42,7 @@ Un fichier `kaggle.json` vous sera téléchargé
 - Copier le contenu du `.env.example` dans le `.env` précédemment créé
 
 - Compléter le `.env` avec les valeurs correspondantes trouvées dans le `kaggle.json` précédemment téléchargé lors de l'étape `2`
+
+# Contributions
+
+[Guide de contribution](CONTRIBUTING.md)
