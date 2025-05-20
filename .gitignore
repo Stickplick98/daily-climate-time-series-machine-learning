@@ -2,8 +2,8 @@
 /venv
 /env_framework
 
-#.env
+#env
 .env
 
-#data
+#datasets
 /data
