@@ -1,18 +1,18 @@
-# Installation
+# ⚙️ Installation
 
-### Cloner le projet (si nécessaire)
+### 📁 Cloner le projet (si nécessaire)
 
 ```bash
 git clone https://github.com/Stickplick98/daily-climate-time-series-machine-learning
 ```
 
-### Python
+### 🐍 Python
 
 Le projet devrait fonctionner avec la majorité des versions de Python. Cependant, si ce n'est pas le cas, la version 3.11.9 a été testée et est fonctionnelle.
 
-Lien : https://www.python.org/downloads/release/python-3119/
+🔗 https://www.python.org/downloads/release/python-3119/
 
-### Dépendances
+### 📦 Dépendances
 
 Les dépendances peuvent être installées avec la commande suivante :
 
@@ -20,13 +20,13 @@ Les dépendances peuvent être installées avec la commande suivante :
 pip install -r requirements.txt
 ```
 
-### Kaggle
+### 🧪 Kaggle
 
 Le projet utilise un dataset via l'API de Kaggle. Celle-ci nécessite un `username` et une `key` afin de pouvoir s'authentifier
 
 #### 1. Créer un compte sur Kaggle
 
-Lien : https://www.kaggle.com
+🔗 https://www.kaggle.com
 
 #### 2. Créer une clé d'API
 
@@ -43,10 +43,10 @@ Un fichier `kaggle.json` vous sera téléchargé
 
 - Compléter le `.env` avec les valeurs correspondantes trouvées dans le `kaggle.json` précédemment téléchargé lors de l'étape `2`
 
-# Contributions
+# 🤝 Contributions
 
 [Guide de contribution](CONTRIBUTING.md)
 
-# Commencer la lecture
+# 🚀 Commencer la lecture
 
 👉 [Introduction](./notebooks/00_introduction.ipynb)
