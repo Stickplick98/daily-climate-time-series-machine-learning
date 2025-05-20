@@ -46,3 +46,7 @@ Un fichier `kaggle.json` vous sera téléchargé
 # Contributions
 
 [Guide de contribution](CONTRIBUTING.md)
+
+# Commencer la lecture
+
+👉 [Introduction](./notebooks/00_introduction.ipynb)
